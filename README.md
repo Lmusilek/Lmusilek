@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A full-stack web developer adept, who has found a new passion in coding.</h3>
+<hr>
+<h3 align="center">I have recently finished coding bootcamp at Le Wagon and while I keep expanding my skills, I am looking for my first great job/project opportunity</h3>
+<hr>
 
 - 🌱 I’m currently learning **Ruby on rails, HTML, CSS & JS and more soon to come.**
 
